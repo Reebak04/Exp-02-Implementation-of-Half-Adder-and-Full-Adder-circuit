@@ -41,22 +41,21 @@ Program to design a half adder and full adder circuit and verify its truth table
 Developed by: Tejusve Kabeer.F
 RegisterNumber: 212222100054
 ```python
-module ha(x,y,s,c);
-input x,y;
+input a,b;
 output s,c;
-xor(s,x,y);
-and(c,x,y);
+xor(s,a,b);
+and(c,a,b);
 endmodule
 
-module full_adder(x, y, z, s, c, x1, x2, x3);
-input x,  y,z;
-output s ,c, x1, x2, x3;
-xor(x1, x, y);
-xor(s, x1, z);
-and(x2, x, y);
-and(x3, x1, z);
-or(c, x2, x3);
-endmodule
+module fulladder(x,y,z,s,c,x1,x2,x3,x4);
+input x,y,z;
+output s,c,x1,x2,x3,x4;
+xor(x1,x,y);
+xor(s,x1,z);
+and(x3,x,y);
+and(x4,x1,z);
+or(c,x3,z);
+endmodule 
 ```
 */
 Logic symbol & Truthtable
