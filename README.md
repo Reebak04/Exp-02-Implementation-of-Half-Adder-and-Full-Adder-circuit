@@ -66,20 +66,21 @@ RTL realization
 
 ## RTL
 ### Half Adder
-![Screenshot (54)](https://user-images.githubusercontent.com/118364993/233892475-78a7c4f5-381a-42b9-a092-f39cb3febfcb.png)
+![image](https://github.com/Reebak04/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118364993/1b33c621-3fb3-4133-a4a6-e95f9a5b43bc)
+
 
 ### Full Adder
-![Screenshot (55)](https://user-images.githubusercontent.com/118364993/233892353-114d5d67-ab3b-4ebe-ad44-cf1b6976dbcf.png)
+![image](https://github.com/Reebak04/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118364993/88756e0b-039c-44ce-a609-953367a56fa7)
 
 ## TIMING DIAGRAM
 ### Half Adder
-![Screenshot (56)](https://user-images.githubusercontent.com/118364993/233892672-c06bc1ff-1e40-46a9-8da0-7c4734c772e5.png)
+![image](https://github.com/Reebak04/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118364993/96dda66c-b8ef-48f6-9ecc-7df6b2551c32)
 
 ### Full Adder
-![Screenshot (57)](https://user-images.githubusercontent.com/118364993/233893015-3b9b193b-5552-477f-9d68-f598985c3bb1.png)
+![image](https://github.com/Reebak04/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118364993/bdd09112-1476-4abc-a2ba-5756cc7ac3d6)
 
 ## TRUTH TABLE 
-![Screenshot (58)](https://user-images.githubusercontent.com/118364993/233893210-2efcd2e1-df8a-4c92-9b6a-ee75a2eee871.png)
+![image](https://github.com/Reebak04/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118364993/30ee5468-a537-4df1-ae5a-a2fab7c31495)
 
 ## Result:
 Therefore,half adder and full adder is verified
